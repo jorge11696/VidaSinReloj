@@ -1,2 +1,0 @@
-# VidaSinReloj
-Guia de viajes
